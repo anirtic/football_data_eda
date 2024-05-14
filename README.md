@@ -1,2 +1,2 @@
 # football_data_eda
-EDA analysis on football data. First time where I tried to use Logistic regression.
+This project performs an exploratory data analysis (EDA) on a dataset of football players and matches. The goal is to uncover insights and patterns within the data that can inform further analysis or decision-making in sports analytics. As a bonus task, for the first time, I tried to collect the data for modelling and running a Logistic Regression.
